@@ -11,9 +11,15 @@ This repo contains the list of resources that can hack your growth.
 - [How to Contribute](#-how-to-contribute-) 
 - [Resources](#resources)
 
-  - [✔️ Awesome Readme Profiles]() 
-
-  - [✔️ Online Tools]() 
+  - [✔️ Awesome Readme Profiles](#%EF%B8%8F-awesome-readme-profiles-) 
+  - [✔️ Online Tools](#%EF%B8%8F-online-tools-) 
+  - [✔️ Learn ReactJS](#%EF%B8%8F-online-tools-)
+  - [CSS Tools]()
+  - [Advanced Blogs]()
+  - [Super Useful Gists]()
+  - [Competitive Programming SDE Sheets]()
+  - [Plugins for Developers]()
+  - []
   
 
 - [Creator](#-creator-)
@@ -24,12 +30,19 @@ This repo contains the list of resources that can hack your growth.
 
 <br>
 
-
- ## ✔️ Online Tools [🔝](#hack-your-growth)
+## Awesome Readme Profiles [🔝](#hack-your-growth)
 
 |Showcase | Description |
 | ------- | ----------- |
 | <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+
+
+ ## Online Tools [🔝](#hack-your-growth)
+
+|Showcase | Description |
+| ------- | ----------- |
+| <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+
 
 ## ✏ How to Contribute? [🔝](#hack-your-growth)
 1. Contributions are welcome! Please take a quick look at the [contributing guidelines](https://github.com/Anmol-Baranwal/Hack-Your-Growth/blob/main/CONTRIBUTING.md) first.
