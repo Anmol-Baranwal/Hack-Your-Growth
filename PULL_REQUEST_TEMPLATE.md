@@ -12,4 +12,4 @@
 
 ---
 
-- [ ] I have read the [Contribution Guidelines]
+- [ ] I have read the [Contribution Guidelines](https://github.com/Anmol-Baranwal/Hack-Your-Growth/blob/main/CONTRIBUTING.md)
