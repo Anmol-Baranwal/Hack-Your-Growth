@@ -11,15 +11,14 @@ This repo contains the list of resources that can hack your growth.
 - [How to Contribute](#-how-to-contribute-) 
 - [Resources](#resources)
 
-  - [✔️ Awesome Readme Profiles](#%EF%B8%8F-awesome-readme-profiles-) 
-  - [✔️ Online Tools](#%EF%B8%8F-online-tools-) 
-  - [✔️ Learn ReactJS](#%EF%B8%8F-online-tools-)
-  - [CSS Tools]()
-  - [Advanced Blogs]()
-  - [Super Useful Gists]()
-  - [Competitive Programming SDE Sheets]()
-  - [Plugins for Developers]()
-  - []
+  - [✔️ Awesome Readme Profiles](#awesome-readme-profiles-) 
+  - [✔️ Online Tools](#online-tools-) 
+  - [✔️ Learn ReactJS](#learn-reactjs-)
+  - [✔️ CSS Tools](#css-tools-)
+  - [✔️ Advanced Blogs](#advanced-blogs-)
+  - [✔️ Super Useful Gists](#super-useful-gists-)
+  - [✔️ Competitive Programming SDE Sheets](#competitive-programming-sde-sheets-)
+  - [✔️ Plugins for Developers](#plugins-for-developers-)
   
 
 - [Creator](#-creator-)
@@ -34,15 +33,75 @@ This repo contains the list of resources that can hack your growth.
 
 |Showcase | Description |
 | ------- | ----------- |
-| <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| <a href="https://github.com/Envoy-VC">https://github.com/Envoy-VC</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| <a href="https://github.com/trinib/trinib">https://github.com/trinib/trinib</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| <a href="https://github.com/BicaBenedicto">https://github.com/BicaBenedicto</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| <a href="https://github.com/gurjeetsinghvirdee">https://github.com/gurjeetsinghvirdee</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
  ## Online Tools [🔝](#hack-your-growth)
 
 |Showcase | Description |
 | ------- | ----------- |
+| <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups | 
+| <a href="https://getwaves.io/">https://getwaves.io/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups | 
+| <a href="https://www.blobmaker.app/">https://www.blobmaker.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups | 
+
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Learn ReactJS [🔝](#hack-your-growth)
+
+|Showcase | Description |
+| ------- | ----------- |
 | <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## CSS Tools [🔝](#hack-your-growth)
+
+|Showcase | Description |
+| ------- | ----------- |
+| <a href="https://cssgradient.io/">https://cssgradient.io/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| <a href="https://shadows.brumm.af/">https://shadows.brumm.af/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| <a href="https://shadows.brumm.af/">https://shadows.brumm.af/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Advanced Blogs [🔝](#hack-your-growth)
+
+|Showcase | Description |
+| ------- | ----------- |
+| <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Super Useful Gists [🔝](#hack-your-growth)
+
+|Showcase | Description |
+| ------- | ----------- |
+| <a href="https://gist.github.com/rxaviers/7360908 ">https://gist.github.com/rxaviers/7360908 </a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Competitive Programming SDE Sheets [🔝](#hack-your-growth)
+
+|Showcase | Description |
+| ------- | ----------- |
+| <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Plugins for Developers [🔝](#hack-your-growth)
+
+|Showcase | Description |
+| ------- | ----------- |
+| <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## ✏ How to Contribute? [🔝](#hack-your-growth)
 1. Contributions are welcome! Please take a quick look at the [contributing guidelines](https://github.com/Anmol-Baranwal/Hack-Your-Growth/blob/main/CONTRIBUTING.md) first.
