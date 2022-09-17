@@ -16,5 +16,5 @@ Make sure to see the [Pull Request Template](https://github.com/Anmol-Baranwal/H
 
 You can add different set of resources & suggest categories.
 
-To add a Resouce, you can read the detailed instructions [here]()
+To add a Resouce, you can read the detailed instructions [here](https://github.com/Anmol-Baranwal/Hack-Your-Growth/blob/main/README.md#-how-to-contribute-)
 
