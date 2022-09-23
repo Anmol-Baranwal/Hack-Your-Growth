@@ -4,7 +4,7 @@ This repo contains the list of resources that can hack your growth.
 
 ✔️ I will regularly update this repo & will only add efficient resources with good UX.
 
-❌ I will avoid adding every resource since there are already repositories & it will just complicate the things.
+**Note** I will avoid adding every resource since there are already repositories & it will just complicate the things.
 
 # [Menu](#menu)
 - [Welcome](#welcome)
@@ -47,8 +47,20 @@ This repo contains the list of resources that can hack your growth.
 | ------- | ----------- |
 | <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups | 
 | <a href="https://getwaves.io/">https://getwaves.io/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups | 
-| <a href="https://www.blobmaker.app/">https://www.blobmaker.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups | 
+| <a href="https://www.blobmaker.app/">https://www.blobmaker.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| https://www.firsttimersonly.com/ | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| https://minhaskamal.github.io/DownGit/#/home?url= | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Online Stats [🔝](#hack-your-growth)
+
+|Showcase | Description |
+| ------- | ----------- |
+| https://api.github.com/users/anmol-baranwal | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| https://github-profile-trophy.vercel.app/?username=Anmol-Baranwal  | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Baranwal  | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
@@ -76,6 +88,7 @@ This repo contains the list of resources that can hack your growth.
 |Showcase | Description |
 | ------- | ----------- |
 | <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| https://axolo.co/blog/p/part-3-github-pull-request-template | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
@@ -84,6 +97,7 @@ This repo contains the list of resources that can hack your growth.
 |Showcase | Description |
 | ------- | ----------- |
 | <a href="https://gist.github.com/rxaviers/7360908 ">https://gist.github.com/rxaviers/7360908 </a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| <a href="https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716">https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716 </a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
@@ -100,6 +114,18 @@ This repo contains the list of resources that can hack your growth.
 |Showcase | Description |
 | ------- | ----------- |
 | <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Organization to Join [🔝](#hack-your-growth)
+
+|Showcase | Description |
+| ------- | ----------- |
+| https://github.com/Design-and-Code | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| https://github.com/EddieHubCommunity | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| https://github.com/CommunityPro | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| https://github.com/github-craftwork | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| https://github.com/ZeroOctave | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
