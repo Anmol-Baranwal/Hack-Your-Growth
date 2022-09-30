@@ -57,6 +57,7 @@ This repo contains the list of resources that can hack your growth.
 
 |Showcase | Description |
 | ------- | ----------- |
+| https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal&theme=blue-green | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 | https://api.github.com/users/anmol-baranwal | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 | https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 | https://github-profile-trophy.vercel.app/?username=Anmol-Baranwal  | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
