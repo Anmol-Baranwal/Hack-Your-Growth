@@ -11,14 +11,15 @@ This repo contains the list of resources that can hack your growth.
 - [How to Contribute](#-how-to-contribute-) 
 - [Resources](#resources)
 
-  - [✔️ Awesome Readme Profiles](#awesome-readme-profiles-) 
-  - [✔️ Online Tools](#online-tools-) 
-  - [✔️ Learn ReactJS](#learn-reactjs-)
-  - [✔️ CSS Tools](#css-tools-)
-  - [✔️ Advanced Blogs](#advanced-blogs-)
-  - [✔️ Super Useful Gists](#super-useful-gists-)
-  - [✔️ Competitive Programming SDE Sheets](#competitive-programming-sde-sheets-)
-  - [✔️ Plugins for Developers](#plugins-for-developers-)
+  - [Awesome Readme Profiles](#awesome-readme-profiles-) 
+  - [Online Tools](#online-tools-) 
+  - [Online Stats](#online-stats-)
+  - [CSS Tools](#css-tools-)
+  - [Advanced Blogs](#advanced-blogs-)
+  - [Super Useful Gists](#super-useful-gists-)
+  - [Competitive Programming SDE Sheets](#competitive-programming-sde-sheets-)
+  - [Plugins for Developers](#plugins-for-developers-)
+  - [Organization to Join](#organization-to-join-)
   
 
 - [Creator](#-creator-)
@@ -28,6 +29,10 @@ This repo contains the list of resources that can hack your growth.
 ---
 
 <br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Awesome Readme Profiles --------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## Awesome Readme Profiles [🔝](#hack-your-growth)
 
@@ -39,6 +44,8 @@ This repo contains the list of resources that can hack your growth.
 | <a href="https://github.com/gurjeetsinghvirdee">https://github.com/gurjeetsinghvirdee</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Online Tools -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
  ## Online Tools [🔝](#hack-your-growth)
@@ -52,6 +59,8 @@ This repo contains the list of resources that can hack your growth.
 | https://minhaskamal.github.io/DownGit/#/home?url= | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Online Stats -------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## Online Stats [🔝](#hack-your-growth)
 
@@ -64,13 +73,7 @@ This repo contains the list of resources that can hack your growth.
 | https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Baranwal  | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-## Learn ReactJS [🔝](#hack-your-growth)
-
-|Showcase | Description |
-| ------- | ----------- |
-| <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
-
+<!--- -- CSS Tools ----------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## CSS Tools [🔝](#hack-your-growth)
@@ -81,7 +84,8 @@ This repo contains the list of resources that can hack your growth.
 | <a href="https://shadows.brumm.af/">https://shadows.brumm.af/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 | <a href="https://shadows.brumm.af/">https://shadows.brumm.af/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
-
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Advanced Blogs ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## Advanced Blogs [🔝](#hack-your-growth)
@@ -92,14 +96,19 @@ This repo contains the list of resources that can hack your growth.
 | https://axolo.co/blog/p/part-3-github-pull-request-template | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Super Useful Gists -------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## Super Useful Gists [🔝](#hack-your-growth)
 
 |Showcase | Description |
 | ------- | ----------- |
+| <a href="https://gist.github.com/Anmol-Baranwal/cccf913ada8f9b0f0d178fdcf0a2d0f5">https://gist.github.com/Anmol-Baranwal/cccf913ada8f9b0f0d178fdcf0a2d0f5 </a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 | <a href="https://gist.github.com/rxaviers/7360908 ">https://gist.github.com/rxaviers/7360908 </a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 | <a href="https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716">https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716 </a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Competitive Programming SDE Sheets ---------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## Competitive Programming SDE Sheets [🔝](#hack-your-growth)
@@ -109,13 +118,17 @@ This repo contains the list of resources that can hack your growth.
 | <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Plugins for Developers ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## Plugins for Developers [🔝](#hack-your-growth)
 
 |Showcase | Description |
 | ------- | ----------- |
-| <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Color Mixer <br><br> Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Organization to Joi-------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## Organization to Join [🔝](#hack-your-growth)
@@ -129,23 +142,30 @@ This repo contains the list of resources that can hack your growth.
 | https://github.com/ZeroOctave | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- How to Contribute Section ------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## ✏ How to Contribute? [🔝](#hack-your-growth)
 1. Contributions are welcome! Please take a quick look at the [contributing guidelines](https://github.com/Anmol-Baranwal/Hack-Your-Growth/blob/main/CONTRIBUTING.md) first.
 2. Make a fork of this repository.
-3. If you want to add a illustration-
+3. If you want to add a Resource-
       ```
-   | <a href="link_of_the_resource">link_of_the_resource</a> | Description_of_the_Resource |
+   | Link_of_the_resource | Title_of_the_Resource <br><br> Description_of_the_Resource |
    ```
    - Add the working link of the resource at `link_of_the_resource`
-   - Paste in appropriate category with `Alphabetical` order
+   - Paste in appropriate category with `Alphabetical` order according to the Title
    - See examples in the section if you are confused
-   - Add a concise description within `60 words` consisting of the things a user can do with the resource.
+   - Add a concise description within `60 words` about the resource or on how a user can interact with the resource.
    
+4. Make an issue if you wish to add any relevant category that is not listed here. 
 5. Commit the changes and make a pull request.
-6. In case if you are contributing other than the illustrations, feel free to remove the pull request template.
+6. In case if you are contributing other than adding the resources, feel free to remove the pull request template.
 
 ---
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Creator ------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## 🔥 Creator [🔝](#hack-your-growth)
 
@@ -162,3 +182,14 @@ This repo contains the list of resources that can hack your growth.
 </tr>
 </table>
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- --- Feedback Section ---------------------------------------------------------------------------------------------------------------------------------->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+## Feedback
+
+If you have any feedback or suggestions please reach out to Project Maintainer [Anmol Baranwal](https://github.com/Anmol-Baranwal)
+
+Or you can create an  <a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues">issue</a> where you can mention some new ideas or suggestions that will enhance this project✨.
+
+Show some ❤️ by starring this helpful repository!
