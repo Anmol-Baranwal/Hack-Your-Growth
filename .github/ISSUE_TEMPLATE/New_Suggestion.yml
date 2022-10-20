@@ -1,0 +1,54 @@
+name: "💡 Feature Request"
+description: Create a new ticket for a new idea
+title: "💡 [REQUEST] - <title>"
+labels: [
+  "enhancement"
+]
+body:
+  - type: input
+    id: concise_title
+    attributes:
+      label: "Concise Description"
+      placeholder: write a concise and appropraiate one line description of the feature request / idea / suggestion
+    validations:
+      required: true
+  - type: textarea
+    id: About_Feature
+    attributes:
+      label: "About Feature"
+      description: About Suggestion in detail
+      placeholder: "Write about the idea in detail, about how it will be useful and which problem would it solve"
+    validations:
+      required: true
+  - type: textarea
+    id: reference_issues
+    attributes:
+      label: "Reference Issues"
+      description: Common issues that you think is relevant to this feature request
+      placeholder: "#Issues IDs"
+    validations:
+      required: false
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: "Additional Info"
+      description: Write the facts or additional information that you think should be considered for the solution.
+      placeholder: A few specific words would be enough.
+    validations:
+      required: false
+  - type: textarea
+    id: drawbacks
+    attributes:
+      label: "Drawbacks"
+      description: What are the drawbacks/impacts of your feature proposed ?
+      placeholder: Identify the drawbacks and impacts while being neutral on your feature proposed
+    validations:
+      required: false
+  - type: checkboxes
+    id: coc
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct]()
+      options:
+        - label: I follow [Contributing Guidelines](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/CONTRIBUTING.md) of this project.
+          required: true
