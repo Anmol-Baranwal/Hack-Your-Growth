@@ -46,6 +46,14 @@ body:
       placeholder: For example, you can describe how the resource is useful for anyone, or how a user can interact with resource
     validations:
       required: false
+  - type: textarea
+    id: contributing
+    attributes:
+      label: "Contributing"
+      description: If you are adding this resource yourself i.e. you are contributing, then write Yes otherwise write No
+      placeholder: Yes for contributing otherwise write No
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
