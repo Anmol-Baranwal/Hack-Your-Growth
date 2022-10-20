@@ -1,14 +1,19 @@
 ## Resource Information
 
-{Resource Name} | `Link of the resource `
+{Resource Title} | `Link of the resource `
 
-{Description} | `The description of the resource describing exactly how it could be beneficial`
+<!-- Add the info of all the reources you have add -->
 
 ---
 
 ## Resource Category
 
 {category}
+
+<!-- If you have added multiple resources, then write 
+{category1} - Title1, Title2 
+{category2} - Title3, Title4 ....
+-->
 
 ---
 
