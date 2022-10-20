@@ -27,7 +27,7 @@ body:
       label: "Resource Examples"
       description: Please enter one or more examples that could be added in this category (one is sufficient)
       value: |
-        Format
+        Examples
         -  Link_of_the_resource1
         -  Link_of_the_resource2
         -  so on
