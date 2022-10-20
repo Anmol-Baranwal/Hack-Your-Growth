@@ -1,5 +1,5 @@
 name: "🚀 Add New Resource"
-description: Create a new ticket for adding an illustration
+description: Create a new ticket to add a new resource
 title: "🚀 [Resource] - <title>"
 labels: [
   "new resource"
