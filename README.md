@@ -1,19 +1,35 @@
 # Hack Your Growth
 
-This repo contains the list of resources that can hack your growth. 
+This repo contains the curated list of super useful resources that can hack your growth. Fork & add your own.
 
-✔️ I will regularly update this repo & will only add efficient resources with good UX.
+> :information_source: I will regularly update this repository & will only add efficient resources that will help you grow faster.
 
 **Note** I will avoid adding every resource since there are already repositories & it will just complicate the things.
 
+## How are these organised?
+
+1. **Awesome Readme Profiles** -&nbsp; This category will contain the links to awesome readme profiles.
+2. **Next Level Readme** -&nbsp; Resources to upgrade your readme visually with minimal effort.
+3. **Online Tools** -&nbsp; The resources that can save your time.
+4. **Readme Stats** -&nbsp; Stats that you can include in your readme for someone to grasp your profile.
+5. **CSS Tools**    -&nbsp; Tools that helps you writing css complex code with ease.
+6. **Advanced Blogs** -&nbsp; Useful blogs can save time whether with integration or something with a complex task.
+7. **Super Useful Gists** -&nbsp; Gists that can automate some tasks and help with generic code.
+8. **Competitive Programming SDE Sheets** -&nbsp; Sheets that are used by thousands and useful for someone aiming for Software Developer or problem solver.
+9. **Plugins for Developers** -&nbsp; Plugins that make someone's life easy by automating the tasks.
+1. **Organization to Join** -&nbsp; Organizations that anyone can join.
+
+
 # [Menu](#menu)
 - [Welcome](#welcome)
+- [How are these organised](#how-are-these-organised)
 - [How to Contribute](#-how-to-contribute-) 
 - [Resources](#resources)
 
   - [Awesome Readme Profiles](#awesome-readme-profiles-) 
+  - [Next Level Readme](#next-level-readme)
   - [Online Tools](#online-tools-) 
-  - [Online Stats](#online-stats-)
+  - [Readme Stats](#readme-stats-)
   - [CSS Tools](#css-tools-)
   - [Advanced Blogs](#advanced-blogs-)
   - [Super Useful Gists](#super-useful-gists-)
@@ -43,6 +59,15 @@ This repo contains the list of resources that can hack your growth.
 | <a href="https://github.com/BicaBenedicto">https://github.com/BicaBenedicto</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 | <a href="https://github.com/gurjeetsinghvirdee">https://github.com/gurjeetsinghvirdee</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Next Level Readme --------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Next Level Readme
+|Showcase | Description |
+| ------- | ----------- |
+| <a href="https://colormixer.web.app/">https://colormixer.web.app/</a> | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups | 
+
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Online Tools -------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -59,10 +84,10 @@ This repo contains the list of resources that can hack your growth.
 | https://minhaskamal.github.io/DownGit/#/home?url= | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Online Stats -------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- -- Readme Stats -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Online Stats [🔝](#hack-your-growth)
+## Readme Stats [🔝](#hack-your-growth)
 
 |Showcase | Description |
 | ------- | ----------- |
@@ -155,7 +180,7 @@ This repo contains the list of resources that can hack your growth.
    - Add the working link of the resource at `link_of_the_resource`
    - Paste in appropriate category with `Alphabetical` order according to the Title
    - See examples in the section if you are confused
-   - Add a concise description within `60 words` about the resource or on how a user can interact with the resource.
+   - Add a concise description within `50 words` about the resource or on how a user can interact with the resource.
    
 4. Make an issue if you wish to add any relevant category that is not listed here. 
 5. Commit the changes and make a pull request.
@@ -190,6 +215,6 @@ This repo contains the list of resources that can hack your growth.
 
 If you have any feedback or suggestions please reach out to Project Maintainer [Anmol Baranwal](https://github.com/Anmol-Baranwal)
 
-Or you can create an  <a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues">issue</a> where you can mention some new ideas or suggestions that will enhance this project✨.
+Or you can create an  <a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues">issue</a> where you can mention some new ideas, categories or suggestions that will enhance this project✨.
 
-Show some ❤️ by starring this helpful repository!
+Please support ❤️ by starring this repository if it is helpful to you!
