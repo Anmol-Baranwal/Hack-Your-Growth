@@ -52,9 +52,9 @@ You don't need to worry as I will request the changes needed in the pull request
 
 > You can add different set of resources according to your needs.
 
-1. First, `make an issue` of the reource you wish to add. Without issue, I would not merge a pull request.
+1. First, `make an issue` using the recommended template (Add New Resource) of the reource you wish to add. Without issue, I would not merge a pull request.
 
-2. If you want to add this resource, then write Yes in `Contributing` while making the issue otherwise you can keep it blank or write No
+2. If you want to add this resource yourself, then write Yes in `Contributing` while making the issue otherwise write No
 
 3. To add a Resource, you can read the detailed instructions [here](https://github.com/Anmol-Baranwal/Hack-Your-Growth/blob/main/README.md#-how-to-contribute-)
 
@@ -67,20 +67,21 @@ You don't need to worry as I will request the changes needed in the pull request
 
 - This repository is created mainly to aid developers or someone who is in the field of tech. So, make sure the category is not something out of scope.
 
-- Restrict long words of category and that is too general like reactJS courses, since there are 1000s of them and would potentially flood the repository.
-Rather, it would be efficient to add ReactJS courses with vast students enrolled and is industry oriented for the purpose of projects.
+- Restrict long words of category that are too general like reactJS courses, since there are 1000s of them and would potentially flood the repository. Rather, it would be efficient to add ReactJS courses with vast number of students enrolled and industry oriented for projects.
 
 - Even, I don't know which category would be more relevant, so make sure to create an issue to take opinions.
 
 ## Additional Information
 
+- If you want to make an issue of multiple resources at once. Make a ToDo list task in a single issue, for example see [here](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/issues/13)
+
 - Description
-   - When adding a resource, check the description with [Grammarly](https://app.grammarly.com/) or with any other grammer checker to avoid grammatical mistakes.
+   - When adding a resource, check the description with [Grammarly](https://app.grammarly.com/) or with any other grammar checker to avoid grammatical mistakes.
 
    - Make sure to not stretch the description to a very long length, even 15 words would be enough if it states the purpose.
 
 - Title
-   - Add a appropriate title for someone to quickly grasp some info about the resource as not everyone will read the description
+   - Add an appropriate title for someone to quickly grasp some info about the resource as not everyone will read the description.
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
