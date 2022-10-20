@@ -1,0 +1,43 @@
+name: "🚀 Add New Category"
+description: Create a new ticket to add a new category
+title: "🚀 [Category] - <title>"
+labels: [
+  "new category"
+]
+body:
+  - type: textarea
+    id: title
+    attributes:
+      label: "Category Request"
+      description: Please enter the name of the category
+      placeholder: Enter the relevant category that you wish to add
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: "Purpose"
+      description: How this category is relevant 
+      placeholder: Enter a concise description of how this category could be useful
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: "Resource Examples"
+      description: Please enter one or more examples that could be added in this category (one is sufficient)
+      value: |
+        Format
+        -  Link_of_the_resource1
+        -  Link_of_the_resource2
+        -  so on
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct]()
+      options:
+        - label: I follow [Contributing Guidelines](https://github.com/Anmol-Baranwal/Hack-Your-Growth/blob/main/CONTRIBUTING.md) of this project.
+          required: true
