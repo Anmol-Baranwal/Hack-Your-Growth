@@ -92,7 +92,7 @@ To view the categories that are included, visit this [link](Categories.md).
 | https://colormixer.web.app/ | Color mixer tool according to `color`, `position`, `impact`, `range`, `blend` | 
 | https://getwaves.io | Make 6 different types of waves with varying flexibilty & opacity | 
 | https://www.blobmaker.app | Awesome Blob maker tool with various cool features & download in `SVG` |
-| https://www.firsttimersonly.com/ | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| https://www.firsttimersonly.com/ | Online tool to navigate to github repositories based on different format which faciliates open-source |
 | https://minhaskamal.github.io/DownGit/#/home | Download any github directory with this useful tool |
 | https://readme.so/editor     | Readme Editor |
 | https://www.makeareadme.com/ | Readme Editor |
@@ -188,11 +188,12 @@ To view the categories that are included, visit this [link](Categories.md).
 
 |Showcase | Description |
 | ------- | ----------- |
-| https://github.com/Design-and-Code | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
-| https://github.com/EddieHubCommunity | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
-| https://github.com/CommunityPro | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
-| https://github.com/github-craftwork | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
-| https://github.com/ZeroOctave | Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups |
+| https://github.com/EddieHubCommunity | Members: `3.2K` Top Language: `JavaScript`, `Java` |
+| https://github.com/Design-and-Code | Members: `289` Top Language: `JavaScript`, `Shell` |
+| https://github.com/CommunityPro | Members: `102` Top Language: `JavaScript`, `HTML`, `SCSS` |
+| https://github.com/github-craftwork | Members: `157` Top Language: `JavaScript`, `Python`, `Ruby` |
+| https://github.com/ZeroOctave | Members: `33` Top Language: `CSS`, `HTML` |
+| https://github.com/simple-icons | Members: `9` Top Language: `JavaScript` |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- How to Contribute Section ------------------------------------------------------------------------------------------------------------------------- -->
