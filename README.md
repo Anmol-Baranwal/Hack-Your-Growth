@@ -176,9 +176,11 @@ To view the categories that are included, visit this [link](Categories.md).
 1. Contributions are welcome! Please take a quick look at the [contributing guidelines](https://github.com/Anmol-Baranwal/Hack-Your-Growth/blob/main/CONTRIBUTING.md) first.
 2. Make a fork of this repository.
 3. If you want to add a Resource-
-      ```
+
+   ```
    | Link_of_the_resource | Title_of_the_Resource <br><br> Description_of_the_Resource |
    ```
+   - `Make an issue` with recommended template (Add New Resource) before making any change.
    - Add the working link of the resource at `link_of_the_resource`
    - Paste in appropriate category with `Alphabetical` order according to the Title
    - See examples in the section if you are confused
@@ -217,6 +219,6 @@ To view the categories that are included, visit this [link](Categories.md).
 
 If you have any feedback or suggestions please reach out to Project Maintainer [Anmol Baranwal](https://github.com/Anmol-Baranwal)
 
-Or you can create an  <a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues">issue</a> where you can mention some new ideas, categories or suggestions that will enhance this project✨.
+Or you can create an  <a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues">issue</a> where you can mention some new ideas, categories or suggestions that will enhance this repository✨.
 
 Please support ❤️ by starring this repository if it is helpful to you!
