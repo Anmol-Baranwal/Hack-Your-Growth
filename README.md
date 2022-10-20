@@ -1,6 +1,16 @@
-# Hack Your Growth
+<div align="center">
 
-This repo contains the curated list of super useful resources that can hack your growth. Fork & add your own.
+# 🤝 &nbsp; Hack Your Growth &nbsp; 🤝
+
+<a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>  <a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a> 
+<a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30" alt="open source  markdown badge"></a> 
+<br><a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge"></a> 
+
+---
+
+</div>
+
+This repo contains the curated list of super useful resources generally for developers that can hack your growth. Fork & add your own.
 
 > :information_source: I will regularly update this repository & will only add efficient resources that will help you grow faster.
 
@@ -8,17 +18,9 @@ This repo contains the curated list of super useful resources that can hack your
 
 ## How are these organised?
 
-1. **Awesome Readme Profiles** -&nbsp; This category will contain the links to awesome readme profiles.
-2. **Next Level Readme** -&nbsp; Resources to upgrade your readme visually with minimal effort.
-3. **Online Tools** -&nbsp; The resources that can save your time.
-4. **Readme Stats** -&nbsp; Stats that you can include in your readme for someone to grasp your profile.
-5. **CSS Tools**    -&nbsp; Tools that helps you writing css complex code with ease.
-6. **Advanced Blogs** -&nbsp; Useful blogs can save time whether with integration or something with a complex task.
-7. **Super Useful Gists** -&nbsp; Gists that can automate some tasks and help with generic code.
-8. **Competitive Programming SDE Sheets** -&nbsp; Sheets that are used by thousands and useful for someone aiming for Software Developer or problem solver.
-9. **Plugins for Developers** -&nbsp; Plugins that make someone's life easy by automating the tasks.
-1. **Organization to Join** -&nbsp; Organizations that anyone can join.
+To view the categories that are included, visit this [link](Categories.md).
 
+> :information_source: If you want to add any relevant category that is not included here, create an issue with the appropriate template.
 
 # [Menu](#menu)
 - [Welcome](#welcome)
