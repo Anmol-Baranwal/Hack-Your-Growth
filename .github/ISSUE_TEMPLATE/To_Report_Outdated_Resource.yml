@@ -1,0 +1,39 @@
+name: "🐛 Report Outdated Resource"
+description: Create a new ticket to report outdated Resource
+title: "🐛 [Resource] - <title>"
+labels: [
+  "outdated resource"
+]
+body:
+  - type: textarea
+    id: prev_link
+    attributes:
+      label: "Broken Link of the Resource"
+      description: Please enter the previous link of the Resource that needs to be corrected
+      placeholder: Full URL with https://...
+    validations:
+      required: true
+  - type: textarea
+    id: new_link
+    attributes:
+      label: "Updated Link of the Resource"
+      description: Please enter the updated and working link of the resource
+      placeholder: Full URL with https://...
+    validations:
+      required: false
+  - type: textarea
+    id: category
+    attributes:
+      label: "Category of The Resource"
+      description: Please enter the category of the resource
+      placeholder: e.g. Readme Stats
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: concise description of what is the exact issue
+      placeholder: Short and explicit description of the outdated/broken resource
+    validations:
+      required: true
