@@ -1,0 +1,56 @@
+name: "🚀 Add New Resource"
+description: Create a new ticket for adding an illustration
+title: "🚀 [Resource] - <title>"
+labels: [
+  "new resource"
+]
+body:
+  - type: textarea
+    id: title
+    attributes:
+      label: "Title of the Resource"
+      description: Please enter the title of the Resource
+      placeholder: The appropriate title that represents the resource
+    validations:
+      required: true
+  - type: textarea
+    id: link
+    attributes:
+      label: "Link of the Resource"
+      description: Please enter the link of the Resource
+      placeholder: Full URL with https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: "Category of The Resource"
+      description: what is the category of the resource
+      multiple: false
+      options:
+        - Awesome Readme Profiles
+        - Next Level Readme
+        - Online Tools
+        - Readme Stats
+        - CSS Tools
+        - Advanced Blogs
+        - Super Useful Gists
+        - Competitive Programming SDE Sheets
+        - Plugins for Developers
+        - Organization to Join
+  - type: textarea
+    id: description
+    attributes:
+      label: "Decription"
+      description: Enter the concise description of the resource in not more than 50 words
+      placeholder: For example, you can describe how the resource is useful for anyone, or how a user can interact with resource
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct]()
+      options:
+        - label: I follow [Contributing Guidelines](https://github.com/Anmol-Baranwal/Hack-Your-Growth/blob/main/CONTRIBUTING.md) of this project.
+          required: true
