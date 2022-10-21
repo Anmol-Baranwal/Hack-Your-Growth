@@ -6,14 +6,6 @@ labels: [
 ]
 body:
   - type: textarea
-    id: title
-    attributes:
-      label: "Title of the Resource"
-      description: Please enter the title of the Resource
-      placeholder: The appropriate title that represents the resource
-    validations:
-      required: true
-  - type: textarea
     id: link
     attributes:
       label: "Link of the Resource"
