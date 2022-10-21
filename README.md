@@ -20,7 +20,7 @@ This repo contains the curated list of super useful resources generally for deve
 
 To view the categories that are included, visit this [link](Categories.md).
 
-> :information_source: If you want to add any relevant category that is not included here, create an issue with the appropriate template.
+> :information_source: If you want to add any relevant category that is not included here, create an [issue](https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues/new/choose) with the appropriate template.
 
 # [Menu](#menu)
 - [Welcome](#welcome)
@@ -207,7 +207,7 @@ To view the categories that are included, visit this [link](Categories.md).
    ```
    | Link_of_the_resource | Description_of_the_Resource |
    ```
-   - `Make an issue` with recommended template (Add New Resource) before making any change.
+   - `Make an issue` with [recommended template](https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues/new?assignees=&labels=new+resource&template=Add_New_Resource.yml&title=%F0%9F%9A%80+%5BResource%5D+-+%3Ctitle%3E) (Add New Resource) before making any change.
    - Add the working link of the resource at `link_of_the_resource`
    - See examples in the section if you are confused
    - Add a concise description within `50 words` about the resource or on how a user can interact with the resource.
@@ -245,6 +245,6 @@ To view the categories that are included, visit this [link](Categories.md).
 
 If you have any feedback or suggestions please reach out to Project Maintainer [Anmol Baranwal](https://github.com/Anmol-Baranwal)
 
-Or you can create an  <a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues">issue</a> where you can mention some new ideas, categories or suggestions that will enhance this repository✨.
+Or you can create an  <a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues/new/choose">issue</a> where you can mention some new ideas, categories or suggestions that will enhance this repository✨.
 
 Please support ❤️ by starring this repository if it is helpful to you!
