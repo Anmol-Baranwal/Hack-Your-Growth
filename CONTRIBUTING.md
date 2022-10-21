@@ -80,8 +80,7 @@ You don't need to worry as I will request the changes needed in the pull request
 
    - Make sure to not stretch the description to a very long length, even 15 words would be enough if it states the purpose.
 
-- Title
-   - Add an appropriate title for someone to quickly grasp some info about the resource as not everyone will read the description.
+   - Add an appropriate description for someone to quickly grasp information about the resource.
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
