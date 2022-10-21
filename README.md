@@ -205,12 +205,10 @@ To view the categories that are included, visit this [link](Categories.md).
 3. If you want to add a Resource-
 
    ```
-   | Link_of_the_resource | Title_of_the_Resource (optional) <br><br> Description_of_the_Resource |
+   | Link_of_the_resource | Description_of_the_Resource |
    ```
    - `Make an issue` with recommended template (Add New Resource) before making any change.
    - Add the working link of the resource at `link_of_the_resource`
-   - Add the title if other examples in the category includes a title (see examples in the category)
-   - Paste in appropriate category with `Alphabetical` order according to the Title
    - See examples in the section if you are confused
    - Add a concise description within `50 words` about the resource or on how a user can interact with the resource.
    
