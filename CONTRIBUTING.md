@@ -52,7 +52,7 @@ You don't need to worry as I will request the changes needed in the pull request
 
 > You can add different set of resources according to your needs.
 
-1. First, `make an issue` using the recommended template (Add New Resource) of the reource you wish to add. Without issue, I would not merge a pull request.
+1. First, `make an issue` using the [recommended template](https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues/new?assignees=&labels=new+resource&template=Add_New_Resource.yml&title=%F0%9F%9A%80+%5BResource%5D+-+%3Ctitle%3E) (Add New Resource) of the reource you wish to add. Without issue, I would not merge a pull request.
 
 2. If you want to add this resource yourself, then write Yes in `Contributing` while making the issue otherwise write No
 
