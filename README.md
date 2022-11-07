@@ -170,15 +170,20 @@ To view the categories that are included, visit this [link](Categories.md).
 
 |Showcase | Description |
 | ------- | ----------- |
-| https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg | `Chrome` Color picker from any online website in RGB & Hex code |
-| https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc   | `Chrome` JSON data viewer with features like tree, chart, collapse | 
-| https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi | `Chrome` Adds React debugging tools to the Chrome Developer Tools|
-| https://chrome.google.com/webstore/detail/codingbuddy/akfkjnollddcnljnlbcjjlnhdleghgam | Displays live and upcoming Programming Contests on various platforms |
-| https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi?hl=en | Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub |
-| https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm?hl=en | Watch free LeetCode video ▶ solutions on the problem page itself |
-| https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en | Discover what runs a website. Frameworks, Analytics Tools, Wordpress Plugins, Fonts |
-| https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg | A tool to quickly preview and get all the svg assets from a website |
-| https://chrome.google.com/webstore/detail/font-finder/bhiichidigehdgphoambhjbekalahgha?hl=en | An easy-to-use font inspector to get CSS styles of the selected element |
+| <a href="https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg">ColorPick Eyedropper</a> | `Chrome` Color picker from any online website in RGB & Hex code |
+| <a href="https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc">JSON Viewer Pro</a>   | `Chrome` JSON data viewer with features like tree, chart, collapse | 
+| <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi">React Developer Tools</a> | `Chrome` Adds React debugging tools to the Chrome Developer Tools|
+| <a href="https://chrome.google.com/webstore/detail/codingbuddy/akfkjnollddcnljnlbcjjlnhdleghgam">CodingBuddy</a> | `Chrome` Displays live and upcoming Programming Contests on various platforms |
+| <a href="https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi?hl=en">LeetHub</a> | `Chrome` Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub |
+| <a href="https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm?hl=en">LeetCode Video Solutions</a> | `Chrome` Watch free LeetCode video ▶ solutions on the problem page itself |
+| <a href="https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en">WhatRuns</a> | `Chrome` Discover what runs a website. Frameworks, Analytics Tools, Wordpress Plugins, Fonts |
+| <a href="https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg">svg-grabber</a> | `Chrome` A tool to quickly preview and get all the svg assets from a website |
+| <a href="https://chrome.google.com/webstore/detail/font-finder/bhiichidigehdgphoambhjbekalahgha?hl=en">Font Finder</a> | `Chrome` An easy-to-use font inspector to get CSS styles of the selected element |
+| <a href="https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en">CSSViewer</a> | `Chrome` A simple CSS property viewer. |
+| <a href="https://chrome.google.com/webstore/detail/actitime-time-tracking-pr/oogddkbohgikljeadnkcepdmekigegck?hl=en">actiTIME Time Tracking & Project Management</a> | `Chrome` Track your hours directly from Chrome or from your favorite apps with a timer. |
+| <a href="https://www.browserstack.com/">BrowserStack</a> | `Chrome` Testing on 3000+ real devices and browsers. Don't compromise with emulators and simulators. |
+| <a href="https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko">Session Buddy</a> | `Chrome` Session managers that allows the developers to manage their tabs by saving the open tabs as collections to be restored later. It can also recover the tabs after a crash. |
+| <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk">Lighthouse</a> | `Chrome` Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps. |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Organization to Join ------------------------------------------------------------------------------------------------------------------------------ -->
