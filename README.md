@@ -30,7 +30,7 @@ To view the categories that are included, visit this [link](Categories.md).
 
   - [Awesome Readme Profiles](#awesome-readme-profiles-) 
   - [Next Level Readme](#next-level-readme)
-  - [Online Tools](#online-tools-) 
+  - [Online Tools & Resources](#online-tools--resources-) 
   - [Readme Stats](#readme-stats-)
   - [CSS Tools](#css-tools-)
   - [Advanced Blogs](#advanced-blogs-)
@@ -80,13 +80,15 @@ To view the categories that are included, visit this [link](Categories.md).
 - https://www.webfx.com/tools/emoji-cheat-sheet/                                         - Emoji Cheat Sheet for GitHub                         
 - https://buttons.github.io/                                                             - Buttons for GitHub like fork, follow...              
 - https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05 - GitHub readme profile guide 
+- https://github.com/Anmol-Baranwal/Cool-GIFs-For-Readme                                 - Awesome GIFs & Avatars for GitHub
+- https://github.com/lowlighter/metrics        - An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Online Tools -------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- -- Online Tools & Resources -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
- ## Online Tools [🔝](#hack-your-growth)
+ ## Online Tools & Resources [🔝](#hack-your-growth)
 
 - https://colormixer.web.app/                  - Color mixer tool according to `color`, `position`, `impact`, `range`, `blend` 
 
@@ -96,6 +98,9 @@ To view the categories that are included, visit this [link](Categories.md).
 - https://minhaskamal.github.io/DownGit/#/home - Download any github directory with this useful tool 
 - https://readme.so/editor                     - Readme Editor 
 - https://www.makeareadme.com/                 - Readme Editor 
+- https://github.com/remotion-dev/github-unwrapped-2022   - Auto Video Review of your GitHub Profile for previous year
+- https://github.com/EddieHubCommunity/LinkFree   - Connect to your audience with a single link
+- https://github.com/mhxion/awesome-discord-communities   -   200+ Curated List of Discord Communities
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Readme Stats -------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -111,7 +116,12 @@ To view the categories that are included, visit this [link](Categories.md).
 - https://github-profile-trophy.vercel.app/?username=Anmol-Baranwal                   
 - https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Baranwal       
 - https://activity-graph.herokuapp.com/graph?username=Anmol-Baranwal&theme=tokyonight 
-- https://api.github.com/users/anmol-baranwal                                         
+- https://api.github.com/users/anmol-baranwal     
+- https://github.com/athul/waka-readme  - Waka Readme
+- https://github.com/jamesgeorge007/github-activity-readme    - Recent Activity
+- https://github.com/gautamkrishnar/blog-post-workflow    - Blog Posts Workflow e.g. `YouTube`, `Stackoverflow` 
+- https://github.com/tipsy/profile-summary-for-github   - Profile Summary in terms of Chart e.g. `Repos per Language`, `
+Commits per Language`, `Stars per Language`
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- CSS Tools ----------------------------------------------------------------------------------------------------------------------------------------- -->
