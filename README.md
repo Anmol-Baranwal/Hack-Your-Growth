@@ -33,6 +33,7 @@ To view the categories that are included, visit this [link](Categories.md).
   - [Online Tools & Resources](#online-tools--resources-) 
   - [Readme Stats](#readme-stats-)
   - [CSS Tools](#css-tools-)
+  - [Inspiring Porfolio Websites](#inspiring-porfolio-websites-)
   - [Advanced Blogs](#advanced-blogs-)
   - [Super Useful Gists](#super-useful-gists-)
   - [Competitive Programming SDE Sheets](#competitive-programming-sde-sheets-)
@@ -62,6 +63,7 @@ To view the categories that are included, visit this [link](Categories.md).
 - https://github.com/trinib/trinib 
 - https://github.com/BicaBenedicto 
 
+<br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Next Level Readme --------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -83,7 +85,7 @@ To view the categories that are included, visit this [link](Categories.md).
 - https://github.com/Anmol-Baranwal/Cool-GIFs-For-Readme                                 - Awesome GIFs & Avatars for GitHub
 - https://github.com/lowlighter/metrics        - An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account
 
-
+<br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Online Tools & Resources -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -102,6 +104,7 @@ To view the categories that are included, visit this [link](Categories.md).
 - https://github.com/EddieHubCommunity/LinkFree   - Connect to your audience with a single link
 - https://github.com/mhxion/awesome-discord-communities   -   200+ Curated List of Discord Communities
 
+<br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Readme Stats -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -123,6 +126,7 @@ To view the categories that are included, visit this [link](Categories.md).
 - https://github.com/tipsy/profile-summary-for-github   - Profile Summary in terms of Chart e.g. `Repos per Language`, `
 Commits per Language`, `Stars per Language`
 
+<br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- CSS Tools ----------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -135,6 +139,24 @@ Commits per Language`, `Stars per Language`
 - https://getcssscan.com/css-buttons-examples     - List of 88 buttons with cool styling which can be copied with one click 
 - https://getcssscan.com/css-box-shadow-examples  - List of 93 box examples which can be copied with one click 
 
+<br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Portfolio ----------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Inspiring Porfolio Websites [🔝](#hack-your-growth)
+
+- https://leerob.io/                            - Lee Robinson
+
+- https://anuraghazra.dev/                      - ANURAG HAZRA
+- https://vjy.me/                               - vijay verma
+- https://shahriarshafin.github.io/             - Shahriar Shafin
+- https://jianchao-li.github.io/                - Jianchao Li 
+- https://www.moro.es/                          - Jorge Moreno. Moro
+
+
+<br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Advanced Blogs ------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -150,6 +172,7 @@ Commits per Language`, `Stars per Language`
 - https://www.freecodecamp.org/news/building-chrome-extension/ - Building a Chrome extension
 - https://blog.back4app.com/heroku-alternatives/ - heroku alternatives for hosting
 
+<br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Super Useful Gists -------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -162,6 +185,7 @@ Commits per Language`, `Stars per Language`
 - https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716     - Semantics for commit messages 
 - https://gist.github.com/Anmol-Baranwal/d2ed032d4fa2883e84c6b5d5b46853ea - Workflow to add labels in GitHub according to JSON Data 
 
+<br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Competitive Programming SDE Sheets ---------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -173,6 +197,7 @@ Commits per Language`, `Stars per Language`
 - https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/ - Striver SDE Sheet (31 Days) 
 - https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/         - DSA sheet by Geeksforgeeks (SDE Preparation) 
 
+<br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Chrome Extensions for Developers ------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -195,6 +220,7 @@ Commits per Language`, `Stars per Language`
 - <a href="https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko">Session Buddy</a> - Session managers that allows the developers to manage their tabs by saving the open tabs as collections to be restored later. It can also recover the tabs after a crash. 
 - <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk">Lighthouse</a> - Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps. 
 
+<br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Organization to Join ------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -236,7 +262,7 @@ Commits per Language`, `Stars per Language`
 - https://github.com/babel             - Members: `69` Top Language: `TypeScript`, `JavaScript`, `Ruby`
 - https://github.com/browserify        - Members: `23` Top Language: `TypeScript`, `HTML`
 
-
+<br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- How to Contribute Section ------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
