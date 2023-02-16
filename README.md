@@ -203,11 +203,39 @@ Commits per Language`, `Stars per Language`
 
 - https://github.com/EddieHubCommunity - Members: `3.2K` Top Language: `JavaScript`, `Java` 
 
-- https://github.com/Design-and-Code   - Members: `289` Top Language: `JavaScript`, `Shell` 
+- https://github.com/Design-and-Code   - Members: `157` Top Language: `C`, `Shell`, `JavaScript`, `TypeScript`, `CSS`
 - https://github.com/CommunityPro      - Members: `102` Top Language: `JavaScript`, `HTML`, `SCSS` 
 - https://github.com/github-craftwork  - Members: `157` Top Language: `JavaScript`, `Python`, `Ruby` 
-- https://github.com/ZeroOctave        - Members: `33` Top Language: `CSS`, `HTML` 
+- https://github.com/ZeroOctave        - Members: `33` Top Language: `CSS`, `HTML`, `Astro` 
 - https://github.com/simple-icons      - Members: `9` Top Language: `JavaScript` 
+- https://github.com/30-seconds/       - Members: `2` Top Language: `JavaScript`, 'Python', `PHP`, `CSS`, `React`  
+- https://github.com/fnplus/           - Members: `157` Top Language: `JavaScript`, 'HTML', `Python`, `Java`, `C++`
+- https://github.com/SurPathHub        - Members: `78` Top Language: `CSS`, `HTML`, `CSS`, `JavaScript`, `Python`
+- https://github.com/cloudcommunity    - Members: `187` Top Language: `JavaScript`, `Shell`, `Python`, `HCL`, `C`
+- https://github.com/netless-io        - Members: `9` Top Language: `TypeScript`, `JavaScript`, `Java`, `Objective-C`, `Swift`
+- https://github.com/EpicGames         - Members: `2.4k` Top Language: `C++`, `C`, `C#`, `TypeScript`
+- https://github.com/mlh-fellowship    - Members: `458` Top Language: `JavaScript`, `Python`, `HTML`, `TypeScript`
+- https://github.com/dreamerslab       - Members: `9` Top Language: `JavaScript`, `PHP`, `CSS`, `Ruby`, `Shell`
+- https://github.com/w3c               - Members: `381` Top Language: `HTML`, `JavaScript`, `Ruby`
+- https://github.com/es-shims          - Members: `7` Top Language: `JavaScript`
+- https://github.com/oftn-oswg         - Members: `26` Top Language: `JavaScript`, `Go`, `C`, `Haskell`
+- https://github.com/jsx-eslint        - Members: `2` Top Language: `JavaScript`
+- https://github.com/ossf              - Members: `15` Top Language: `Python`, `Go`, `JavaScript`, `Perl`
+- https://github.com/react-dates       - Members: `1` Top Language: `JavaScript`
+- https://github.com/enzymejs          - Members: `1` Top Language: `JavaScript`
+- https://github.com/inspect-js        - Members: `2` Top Language: `JavaScript`
+- https://github.com/pkgjs             - Members: `22` Top Language: `JavaScript`, `Shell`, `TypeScript`
+- https://github.com/nvm-sh            - Members: `2` Top Language: `Shell`
+- https://github.com/openjs-foundation - Members: `34` Top Language: `JavaScript`, `Nunjucks`
+- https://github.com/GitHub-Stars      - Members: `36`
+- https://github.com/octocademy        - Members: `2` Top Language: `JavaScript`
+- https://github.com/DashboardHub      - Members: `6` Top Language: `TypeScript`, `JavaScript`
+- https://github.com/maintainers       - Members: `336` Top Language: `JavaScript`
+- https://github.com/tapjs             - Members: `6` Top Language: `TypeScript`, `JavaScript`, `CSS`
+- https://github.com/nodejs            - Members: `310` Top Language: `JavaScript`, `Shell`, `C++`
+- https://github.com/babel             - Members: `69` Top Language: `TypeScript`, `JavaScript`, `Ruby`
+- https://github.com/browserify        - Members: `23` Top Language: `TypeScript`, `HTML`
+
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- How to Contribute Section ------------------------------------------------------------------------------------------------------------------------- -->
@@ -251,14 +279,16 @@ Commits per Language`, `Stars per Language`
 </tr>
 </table>
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!-- --- Feedback Section ---------------------------------------------------------------------------------------------------------------------------------->
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
+<br>
 
-## Feedback
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- 💜 Thanks For Visiting --------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting
 
 If you have any feedback or suggestions please reach out to Project Maintainer [Anmol Baranwal](https://github.com/Anmol-Baranwal)
 
 Or you can create an  <a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues/new/choose">issue</a> where you can mention some new ideas, categories or suggestions that will enhance this repository✨.
 
-Please support ❤️ by starring this repository if it is helpful to you!
+### Please support by 🌟 this repository if it is helpful to you!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
