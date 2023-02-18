@@ -234,8 +234,8 @@ Commits per Language`, `Stars per Language`
 - https://github.com/github-craftwork  - Members: `157` Top Language: `JavaScript`, `Python`, `Ruby` 
 - https://github.com/ZeroOctave        - Members: `33` Top Language: `CSS`, `HTML`, `Astro` 
 - https://github.com/simple-icons      - Members: `9` Top Language: `JavaScript` 
-- https://github.com/30-seconds/       - Members: `2` Top Language: `JavaScript`, 'Python', `PHP`, `CSS`, `React`  
-- https://github.com/fnplus/           - Members: `157` Top Language: `JavaScript`, 'HTML', `Python`, `Java`, `C++`
+- https://github.com/30-seconds/       - Members: `2` Top Language: `JavaScript`, `Python`, `PHP`, `CSS`, `React`  
+- https://github.com/fnplus/           - Members: `157` Top Language: `JavaScript`, `HTML`, `Python`, `Java`, `C++`
 - https://github.com/SurPathHub        - Members: `78` Top Language: `CSS`, `HTML`, `CSS`, `JavaScript`, `Python`
 - https://github.com/cloudcommunity    - Members: `187` Top Language: `JavaScript`, `Shell`, `Python`, `HCL`, `C`
 - https://github.com/netless-io        - Members: `9` Top Language: `TypeScript`, `JavaScript`, `Java`, `Objective-C`, `Swift`
