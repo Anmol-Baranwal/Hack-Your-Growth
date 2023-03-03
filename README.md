@@ -154,7 +154,8 @@ Commits per Language`, `Stars per Language`
 - https://shahriarshafin.github.io/             - Shahriar Shafin
 - https://jianchao-li.github.io/                - Jianchao Li 
 - https://www.moro.es/                          - Jorge Moreno. Moro
-
+- https://github.com/Evavic44/portfolio-ideas   - List of portfolios for inspiration (Recommended) 
+- https://github.com/emmabostian/developer-portfolios - Complete list of portfolios                    
 
 <br>
 
