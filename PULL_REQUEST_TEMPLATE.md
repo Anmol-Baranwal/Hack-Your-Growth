@@ -1,20 +1,20 @@
-## Resource Information
+## Number of Resources changed with Category
 
-{Resource Title} | `Link of the resource `
+- <`Category`> : <`number`>
 
-<!-- Add the info of all the reources you have add -->
-
----
-
-## Resource Category
-
-{category}
+<!-- 
+    Replace <`Category`> with the category e.g. CSS Tools
+    Replace <`number`> with the number of resources you have added in that category e.g. three
+ -->
 
 <!-- If you have added multiple resources, then write 
-{category1} - Title1, Title2 
-{category2} - Title3, Title4 ....
+- {category1} : number of resources you have add
+- {category2} : number of resources you have add ....
+e.g. CSS Tools : three
 -->
 
 ---
+
+<!-- Tick the checkboxes to ensure you've done everything correctly => [x] represents a checkbox  -->
 
 - [ ] I have read the [Contribution Guidelines](https://github.com/Anmol-Baranwal/Hack-Your-Growth/blob/main/CONTRIBUTING.md)
