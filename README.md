@@ -10,17 +10,30 @@
 
 </div>
 
-This repo contains the curated list of super useful resources generally for developers that can hack your growth. Fork & add your own.
+### This repo contains the curated list of super helpful resources generally for developers such as 
+- repositories of sde sheets for interview preparation 
+
+- inspiring portfolio websites
+- resources to make your GitHub profile like a pro
+- useful chrome extensions
+- readme stats to show on your profile
+- organizations to join, and many more.
+
+<br>
 
 > :information_source: I will regularly update this repository & will only add efficient resources that will help you grow faster.
 
-**Note** I will avoid adding every resource since there are already repositories & it will just complicate the things.
+**Note**: I will avoid adding every resource since there are already repositories & it will just complicate the repository.
+
+<br>
 
 ## How are these organised?
 
 To view the categories that are included, visit this [link](Categories.md).
 
 > :information_source: If you want to add any relevant category that is not included here, create an [issue](https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues/new/choose) with the appropriate template.
+
+<br>
 
 # [Menu](#menu)
 - [Welcome](#welcome)
@@ -29,6 +42,7 @@ To view the categories that are included, visit this [link](Categories.md).
 - [Resources](#resources)
 
   - [Awesome Readme Profiles](#awesome-readme-profiles-) 
+  - [Interview Preparation & SDE Sheets](#interview-preparation--sde-sheets-)
   - [Next Level Readme](#next-level-readme)
   - [Online Tools & Resources](#online-tools--resources-) 
   - [Readme Stats](#readme-stats-)
@@ -36,7 +50,6 @@ To view the categories that are included, visit this [link](Categories.md).
   - [Inspiring Porfolio Websites](#inspiring-porfolio-websites-)
   - [Advanced Blogs](#advanced-blogs-)
   - [Super Useful Gists](#super-useful-gists-)
-  - [Competitive Programming SDE Sheets](#competitive-programming-sde-sheets-)
   - [Chrome Extensions for Developers](#chrome-extensions-for-developers-)
   - [Organization to Join](#organization-to-join-)
   
@@ -62,6 +75,30 @@ To view the categories that are included, visit this [link](Categories.md).
 - https://github.com/Envoy-VC     
 - https://github.com/trinib/trinib 
 - https://github.com/BicaBenedicto 
+
+<br>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Competitive Programming SDE Sheets ---------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Interview Preparation & SDE Sheets [🔝](#hack-your-growth)
+
+- https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/                               - DSA sheet by Love Babbar (450 Questions) 
+
+- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/ - Striver SDE Sheet (31 Days) 
+- https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/         - DSA sheet by Geeksforgeeks (SDE Preparation) 
+
+- https://takeuforward.org/uncategorized/6073/#es_form_f2-n1                            - Improve Graph & Dynamic Programming using structured list of Leetcode & Geeksforgeeks problems
+
+- https://github.com/Anmol-Baranwal/Leetcode-GFG-DS-Solutions                           - Leetcode & GFG Solutions most of the problems don't have explaination but you can learn from different approaches
+
+- https://github.com/yuvrajverma01/Data-Structures-And-Algorithms-Roadmap               - DSA Roadmap
+
+- https://github.com/kamyu104/LeetCode-Solutions                                        - Python / Modern C++ Solutions of All 2577 LeetCode Problems
+
+- https://github.com/hxu296/leetcode-company-wise-problems-2022                         - Leetcode Company wise problems with solutions in C++ / Java / JavaScript
+
+- https://github.com/karanpratapsingh/system-design                                     - Learn System Design (important for SDE Interviews)
 
 <br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -188,18 +225,6 @@ Commits per Language`, `Stars per Language`
 
 <br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Competitive Programming SDE Sheets ---------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-## Competitive Programming SDE Sheets [🔝](#hack-your-growth)
-
-- https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/                               - DSA sheet by Love Babbar (450 Questions) 
-
-- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/ - Striver SDE Sheet (31 Days) 
-- https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/         - DSA sheet by Geeksforgeeks (SDE Preparation) 
-
-<br>
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Chrome Extensions for Developers ------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
@@ -314,8 +339,9 @@ Commits per Language`, `Stars per Language`
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting
 
+### Please support by 🌟 this repository if it is helpful to you!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
+
+
 If you have any feedback or suggestions please reach out to Project Maintainer [Anmol Baranwal](https://github.com/Anmol-Baranwal)
 
 Or you can create an  <a href="https://github.com/Anmol-Baranwal/Hack-Your-Growth/issues/new/choose">issue</a> where you can mention some new ideas, categories or suggestions that will enhance this repository✨.
-
-### Please support by 🌟 this repository if it is helpful to you!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
