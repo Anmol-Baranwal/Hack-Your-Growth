@@ -24,8 +24,8 @@
 ### **Super Useful Gists**
 > Gists that can automate some tasks and help with generic code.
 
-### **Competitive Programming SDE Sheets**
-> Sheets that are used by thousands and useful for someone aiming for Software Developer or problem solver.
+### **Interview Preparation & SDE Sheets**
+> Sheets used by thousands and vital for someone aiming for Software Developer or mastering data structures as in problem solving. This category also includes various helpful repositories for interview preparation.
 
 ### **Plugins for Developers**
 > Plugins that make someone's life easy by automating the tasks.
