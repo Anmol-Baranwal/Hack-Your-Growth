@@ -209,6 +209,36 @@ Commits per Language`, `Stars per Language`
 - https://css-tricks.com/converting-speech-to-pdf-with-nextjs-and-expressjs/ - Speech to Text using Next JS & Express JS
 - https://www.freecodecamp.org/news/building-chrome-extension/ - Building a Chrome extension
 - https://blog.back4app.com/heroku-alternatives/ - heroku alternatives for hosting
+- https://dev.to/waystogo/top-5-git-commands-which-will-save-your-day-13ek - Useful Git Commands
+- https://dev.to/sm0ke/next-js-themes-open-source-and-free-454f - Next JS Open Source Themes
+- https://economictimes.indiatimes.com/news/new-updates/here-are-5-chatgpt-based-extensions-for-chrome-to-increase-productivity/articleshow/97840002.cms?from=mdr - 5 ChatGPT based chrome extensions to increase productivity
+- https://rapidapi.com/blog/nodejs-express-rest-api-example/ - How to Build a RESTful API in Node.js (with Express.js)
+- https://dev.to/novu/building-an-interactive-screen-sharing-app-with-puppeteer-and-react-12h7 - Building an Interactive screen sharing app with puppeteer and react
+- https://dev.to/nyxtom/top-10-git-commands-everyone-should-know-57e0 - top 10 git commands everyone should know
+- https://dev.to/waystogo/10-vscode-shortcuts-to-code-faster-obl - 10 vscode shortcuts to code faster
+- https://dev.to/ixartz/nextless-js-next-js-saas-boilerplate-template-with-serverless-backend-34l5 - Next js saas biolerplate template with serverless backend
+- https://dev.to/apium_hub/migrating-react-js-project-to-next-js-391k - Migrating react js project to next js
+- https://blog.openreplay.com/build-beautiful-ui-components-with-nextui - Build beautiful ui components with NextUI
+- https://www.freecodecamp.org/news/github-super-linter/ - How to Use GitHub Super Linter in Your Projects
+- https://betterprogramming.pub/create-forms-in-react-without-stress-115e02053185 - Create Forms in React Without Stress
+- https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/ - How to Optimize Your Node.js API
+- https://blog.logrocket.com/getting-started-with-nestjs-vite-esbuild/ - Getting started with NestJS, Vite, and esbuild
+- https://dev.to/javinpaul/my-favorite-system-design-and-software-architecture-books-for-experienced-developers-2ced - My Favorite System Design and Software Architecture Books for Experienced Developers
+- https://towardsdatascience.com/using-openai-and-python-to-enhance-your-resume-a-step-by-step-guide-e2c1a359e194 - Using OpenAI and Python to Enhance Your Resume: A Step-by-Step Guide
+- https://dev.to/github/securely-store-environment-variables-with-github-codespaces-3dgc - Securely store environment variables with GitHub Codespaces
+- https://dev.to/ruppysuppy/7-libraries-you-should-know-as-a-react-developer-2ib5 - 7 Libraries You Should Know as a React Developer
+- https://madza.hashnode.dev/12-useful-react-tools-to-make-you-more-productive - 12 Useful React Tools to Make You More Productive 
+- https://blog.bitsrc.io/7-useful-github-repositories-to-become-a-pro-react-developer-b2548e9e0c9e - 7 Useful GitHub Repositories to Become a Pro React Developer
+- https://blog.openreplay.com/implementing-3d-graphics-in-react - Implementing 3D Graphics In React
+- https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers - Grokking Modern System Design Interview for Engineers & Managers
+- https://hamedbaatour.medium.com/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e - Build A Real World Beautiful Web APP with Angular — A to Z Ultimate Guide — PART I
+- https://novu.co/blog/building-a-real-time-bidding-system-with-socket-io-and-react-native/ - Building a real-time bidding system with Socket.io and React Native
+- https://prepinsta.com/interview-preparation/hr-interview-questions/ - Most Asked HR Interview Questions And Answers
+- https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/ - How to Build a CRUD Command Line Application With Node.js
+- https://dev.to/javinpaul/why-developers-should-learn-docker-and-kubernetes-in-2023-4hof - Why Developers Should Learn Docker and Kubernetes in 2023
+- https://www.moesif.com/blog/api-product-management/api-analytics/10-Most-Popular-Frameworks-For-Building-RESTful-APIs/ - 10 Most Popular Frameworks For Building RESTful APIs
+- https://levelup.gitconnected.com/amazon-software-engineer-interview-handbook-2022-fe64e7ad35a2 - Amazon Software Engineer Interview Handbook (2023)
+- https://www.educative.io/blog/complete-guide-to-system-design - The complete guide to System Design in 2023
 
 <br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
