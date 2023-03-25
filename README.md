@@ -78,7 +78,7 @@ To view the categories that are included, visit this [link](Categories.md).
 
 <br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Competitive Programming SDE Sheets ---------------------------------------------------------------------------------------------------------------- -->
+<!--- -- Interview Preparation & SDE Sheets ---------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## Interview Preparation & SDE Sheets [🔝](#hack-your-growth)
@@ -99,6 +99,8 @@ To view the categories that are included, visit this [link](Categories.md).
 - https://github.com/hxu296/leetcode-company-wise-problems-2022                         - Leetcode Company wise problems with solutions in C++ / Java / JavaScript
 
 - https://github.com/karanpratapsingh/system-design                                     - Learn System Design (important for SDE Interviews)
+
+- https://levelup.gitconnected.com/amazon-software-engineer-interview-handbook-2022-fe64e7ad35a2   - Amazon Software Engineer Interview handbook 2022
 
 <br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -140,6 +142,7 @@ To view the categories that are included, visit this [link](Categories.md).
 - https://github.com/remotion-dev/github-unwrapped-2022   - Auto Video Review of your GitHub Profile for previous year
 - https://github.com/EddieHubCommunity/LinkFree   - Connect to your audience with a single link
 - https://github.com/mhxion/awesome-discord-communities   -   200+ Curated List of Discord Communities
+- https://aicolors.co/                         - Generate palettes from a text prompt
 
 <br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -239,6 +242,19 @@ Commits per Language`, `Stars per Language`
 - https://www.moesif.com/blog/api-product-management/api-analytics/10-Most-Popular-Frameworks-For-Building-RESTful-APIs/ - 10 Most Popular Frameworks For Building RESTful APIs
 - https://levelup.gitconnected.com/amazon-software-engineer-interview-handbook-2022-fe64e7ad35a2 - Amazon Software Engineer Interview Handbook (2023)
 - https://www.educative.io/blog/complete-guide-to-system-design - The complete guide to System Design in 2023
+- https://kingdavvid.hashnode.dev/building-an-endless-runner-game-with-threejs-mixamo-vite-and-planetscale-part-three - Building an endless runner game with threejs, mixamo, vite, planetscale
+- https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/ - Interactive guide to flexbox
+- https://www.joshwcomeau.com/animation/css-transitions/ - css transitions
+- https://dev.to/nyxtom/top-10-git-commands-everyone-should-know-57e0 - top 10 git commands
+- https://dev.to/sktanwar2014/all-online-tools-in-one-box-16m4 - all online tools in one box
+- https://dev.to/sm0ke/gatsby-themes-and-starters-8ha - Gatsby - Themes and Starters
+- https://dev.to/alrubelrana/react-gatsby-next-js-landing-page-collection-3gkd - React Gatsby Next js Landing Page Collection
+- https://api.daily.dev/r/bMFvkbgoY - A Visual Guide to useEffect - Cleanups
+- https://dev.to/sm0ke/next-js-themes-open-source-and-free-454f - Next JS Themes - Open-source and Free
+- https://dev.to/hasone/unlimited-resources-for-developer-designer-engineer-4b1n - unlimited resources for developers and designers
+- https://dev.to/novu/master-notifications-with-chatgpt-react-and-nodejs-1ea9 - Master notification with chatgpt, react, and nodejs
+- https://dev.to/anmolbaranwal/15-chatgpt-plugins-to-hack-productivity-1e8d - 15 ChatGPT plugins to hack productivity
+- https://hashnode.com/post/35-free-react-templates-and-themes-you-should-use-in-2021-cklw9iu7c022b56s1ezgz033j - 35 Free React templates and themes to use in 2021
 
 <br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
