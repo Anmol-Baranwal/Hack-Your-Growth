@@ -207,6 +207,7 @@ Commits per Language`, `Stars per Language`
 
 - https://axolo.co/blog/p/part-3-github-pull-request-template                            - 6 GitHub Pull Request template examples 
 
+- https://github.com/Anmol-Baranwal/Bookmark-Brigade - Awesome Blogs worth reading especially for developers
 - https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05 - GitHub readme profile guide
 - https://dev.to/novu/building-a-chat-browser-notifications-with-react-websockets-and-web-push-1h1j - Browser Notifications
 - https://css-tricks.com/converting-speech-to-pdf-with-nextjs-and-expressjs/ - Speech to Text using Next JS & Express JS
